@@ -6,5 +6,3 @@ This code is written for my Discord bot in order to find out what it is doing, g
 
 5нрекркериек
 уркркуркуркур
-куркуркур
-курукркурук
