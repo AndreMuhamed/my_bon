@@ -5,3 +5,4 @@ This code is written for my Discord bot in order to find out what it is doing, g
 # I am not responsible for the functionality of the bot
 екуепуркукп
 екрееререркеркеркерее
+екркеркекекекекекекекекекекекеке
